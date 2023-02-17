@@ -43,11 +43,17 @@
     //console.log(example4[i]);
   //}
   
-  let example6 = ["a","c","e","d","b"];
-  example6.reverse();
-  console.log(example6);
+  //let example6 = ["a","c","e","d","b"];
+  //example6.reverse();
+  //console.log(example6);
 
-  example6.sort();
-  console.log(example6);
+  //example6.sort();
+  //console.log(example6);
+
+  let example7 =[1,5,4,2,3,6];
+  example7.sort(function(a,b) {
+    return a-b;
+  });
+  console.log(example7);
 
   
