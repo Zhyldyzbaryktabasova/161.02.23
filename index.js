@@ -50,10 +50,10 @@
   //example6.sort();
   //console.log(example6);
 
-  let example7 =[1,5,4,2,3,6];
-  example7.sort(function(a,b) {
-    return a-b;
-  });
-  console.log(example7);
+  //let example7 =[1,5,4,2,3,6];
+  //example7.sort(function(a,b) {
+    //return a-b;
+  //});
+  //console.log(example7);
 
   
